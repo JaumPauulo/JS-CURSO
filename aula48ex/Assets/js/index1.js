@@ -1,3 +1,5 @@
+// separei esse script para mostrar como eu realizei esse exercicio antes de ler a documentação
+
 const t = document.querySelector('h1');
 
 const nameDay = ['Segunda-feira','Terça-feira','Quarta-feira','Quinta-feira','Sexta-feira','Sabado','Domingo'];
